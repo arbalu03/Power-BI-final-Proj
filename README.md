@@ -4,7 +4,7 @@
 COVID-19 Analytics Power BI Dashboard
 ![Page1](https://github.com/arbalu03/Power-BI-final-Proj/assets/136765506/949f21b3-1374-4f77-a18b-fa2b304eb584)
 ![Pag 2](https://github.com/arbalu03/Power-BI-final-Proj/assets/136765506/a08c46ae-47b9-40bd-abbf-a1fb4b02ad41)
-⏮▶⏩Link to watch the video presentation: https://4188800-qUTe?utm_source=share&utm_medium=member_desktop
+⏮▶⏩Link to watch the video presentation: https://drive.google.com/file/d/1lcbqMBzH-ZxB7XTAb0-vB0zcYFraHei4/view?usp=drive_link
 ## Overview
 The COVID-19 Analytics Power BI Dashboard is a comprehensive data visualization project that offers valuable insights into the impact of the COVID-19 pandemic worldwide. The dashboard is designed using Microsoft Power BI, providing an interactive and user-friendly interface to explore and analyze key metrics related to COVID-19 cases, deaths, recoveries, and more.
 ## Features
